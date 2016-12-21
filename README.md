@@ -1,3 +1,5 @@
 # hello-world
-Just another repository
-trying how to use git
+Just another reposity
+learning to use git :)
+=======
+
